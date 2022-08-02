@@ -1,0 +1,14 @@
+{
+  "name": "acafdb1ce724efb5",
+  "main": "acafdb1ce724efb5@256.js",
+  "version": "256.0.0",
+  "homepage": "https://observablehq.com/d/acafdb1ce724efb5",
+  "author": {
+    "name": "Joshua Businge M",
+    "url": "https://observablehq.com/@joshuabusinge"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "bb8522028213ca63",
+  "main": "bb8522028213ca63@612.js",
+  "version": "612.0.0",
+  "homepage": "https://observablehq.com/d/bb8522028213ca63",
+  "author": {
+    "name": "Joshua Bujo",
+    "url": "https://observablehq.com/@joshuabujo"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
